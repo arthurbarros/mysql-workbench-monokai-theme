@@ -1,4 +1,4 @@
-# mysql-workbench-monokai-theme
+# Mysql Workbench Monokai theme
 
 DYI to apply monokai theme on MySQL Workbench
 
